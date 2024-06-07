@@ -1,4 +1,4 @@
-<h1>I Used this template for my own blog</h1>
+<h1>I Used this template for my own blog<\h1>
 <h3>see it live at:<\h3>
 <a href=>
 https://juans-blog.web.app/>https://juans-blog.web.app/ on FIREBASE<\p>
