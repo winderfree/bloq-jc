@@ -3,6 +3,7 @@
 <a href=
 https://juans-blog.web.app/>https://juans-blog.web.app/ on FIREBASE
 </a>
+<br>
 ![blog-template-using-nextjs-typescript-tailwindcss](/public/images/og-image.jpg)
 
 # Starter blog template using Nextjs, Typescript and Tailwind CSS.
