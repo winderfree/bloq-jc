@@ -2,7 +2,7 @@
 ### see it live at:
 <a href=
 https://juans-blog.web.app/>https://juans-blog.web.app/ on FIREBASE
-<\a>
+</a>
 ![blog-template-using-nextjs-typescript-tailwindcss](/public/images/og-image.jpg)
 
 # Starter blog template using Nextjs, Typescript and Tailwind CSS.
