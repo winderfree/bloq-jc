@@ -1,8 +1,8 @@
-<h1>I Used this template for my own blog<\h1>
-<h3>see it live at:<\h3>
-<a href=>
-https://juans-blog.web.app/>https://juans-blog.web.app/ on FIREBASE<\p>
-
+# I Used this template for my own blog
+### see it live at:
+<a href=
+https://juans-blog.web.app/>https://juans-blog.web.app/ on FIREBASE
+<\a>
 ![blog-template-using-nextjs-typescript-tailwindcss](/public/images/og-image.jpg)
 
 # Starter blog template using Nextjs, Typescript and Tailwind CSS.
