@@ -4,6 +4,7 @@
 https://juans-blog.web.app/>https://juans-blog.web.app/ on FIREBASE
 </a>
 <p>I know how to manage big parte of this App, but the real deal is the company behind... Here there are. +++</p>
+
 ![blog-template-using-nextjs-typescript-tailwindcss](/public/images/og-image.jpg)
 
 # Starter blog template using Nextjs, Typescript and Tailwind CSS.
